@@ -1,0 +1,12 @@
+C:\Users\ender\source\repos\WebApi.Infra.IoC\bin\Debug\net6.0\WebApi.Infra.IoC.deps.json
+C:\Users\ender\source\repos\WebApi.Infra.IoC\bin\Debug\net6.0\WebApi.Infra.IoC.dll
+C:\Users\ender\source\repos\WebApi.Infra.IoC\bin\Debug\net6.0\WebApi.Infra.IoC.pdb
+C:\Users\ender\source\repos\WebApi.Infra.IoC\obj\Debug\net6.0\WebApi.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\ender\source\repos\WebApi.Infra.IoC\obj\Debug\net6.0\WebApi.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ender\source\repos\WebApi.Infra.IoC\obj\Debug\net6.0\WebApi.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\ender\source\repos\WebApi.Infra.IoC\obj\Debug\net6.0\WebApi.Infra.IoC.AssemblyInfo.cs
+C:\Users\ender\source\repos\WebApi.Infra.IoC\obj\Debug\net6.0\WebApi.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ender\source\repos\WebApi.Infra.IoC\obj\Debug\net6.0\WebApi.Infra.IoC.dll
+C:\Users\ender\source\repos\WebApi.Infra.IoC\obj\Debug\net6.0\refint\WebApi.Infra.IoC.dll
+C:\Users\ender\source\repos\WebApi.Infra.IoC\obj\Debug\net6.0\WebApi.Infra.IoC.pdb
+C:\Users\ender\source\repos\WebApi.Infra.IoC\obj\Debug\net6.0\ref\WebApi.Infra.IoC.dll
